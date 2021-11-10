@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>5ee87f2a-10de-4f08-9a16-39f26236c562</groupId>
+	<groupId>5ee87f2a-10de-4f08-9a16-39f26236c563</groupId>
 	<artifactId>walmart-api123</artifactId>
 	<version>1.0.1</version>
 	<packaging>mule-application</packaging>
@@ -66,7 +66,7 @@
 			<classifier>mule-plugin</classifier>
 		</dependency>
 		<dependency>
-			<groupId>5ee87f2a-10de-4f08-9a16-39f26236c562</groupId>
+			<groupId>5ee87f2a-10de-4f08-9a16-39f26236c563</groupId>
 			<artifactId>walmart-api123</artifactId>
 			<version>1.0.1</version>
 			<classifier>raml</classifier>
