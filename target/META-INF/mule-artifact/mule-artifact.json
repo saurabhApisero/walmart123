@@ -6,7 +6,7 @@
   ],
   "secureProperties": [],
   "redeploymentEnabled": true,
-  "name": "com.mycompany:walmart-api123:1.0.0-SNAPSHOT",
+  "name": "5ee87f2a-10de-4f08-9a16-39f26236c562:walmart-api123:1.0.1",
   "minMuleVersion": "4.3.0",
   "requiredProduct": "MULE_EE",
   "classLoaderModelLoaderDescriptor": {
